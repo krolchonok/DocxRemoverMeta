@@ -9,7 +9,7 @@ MetadataCleaner for DOCX is a simple tool to remove hidden metadata from DOCX fi
 - Provides a preview of metadata before removal.
 - Simple and lightweight application.
 ## Screenshots
-![image](https://github.com/user-attachments/assets/777dc857-35cf-461c-a5dd-14302dcdefe1)
+![image](https://github.com/user-attachments/assets/879a02d3-d653-4bd1-866f-e2f77fe4ada7)
 
 ## Installation
 Just launch .exe file 
